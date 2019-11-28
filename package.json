@@ -1,5 +1,5 @@
 {
-  "name": "useform",
+  "name": "@gco.c/useform",
   "version": "1.0.0",
   "description": "Just another hook for handling forms",
   "author": "GianCastle",

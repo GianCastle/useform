@@ -2,7 +2,7 @@
 
 > Just another hook for handling forms
 
-[![NPM](https://img.shields.io/npm/v/useform.svg)](https://www.npmjs.com/package/useform) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/useform.svg)](https://www.npmjs.com/package/@gco.c/useform ) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 

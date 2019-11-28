@@ -10,19 +10,9 @@
 npm install --save useform
 ```
 
-## Usage
+## Usage (TODO)
 
 ```jsx
-import React, { Component } from 'react'
-
-import { useMyHook } from 'useform'
-
-const Example = () => {
-  const example = useMyHook()
-  return (
-    <div>{example}</div>
-  )
-}
 ```
 
 ## License

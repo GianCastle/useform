@@ -1,7 +1,7 @@
-import { useMyHook } from './'
+import { useFormInput } from './'
 
-describe('useMyHook', () => {
+describe('useForm', () => {
   it('is truthy', () => {
-    expect(useMyHook).toBeTruthy()
+    expect(useFormInput).toBeTruthy()
   })
 })
